@@ -107,6 +107,10 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 · [![npm version](https://img.shields.io/npm/v/transantiago-client.svg?style=flat-square)](https://www.npmjs.com/package/transantiago-client) 
 · [![npm downloads](https://img.shields.io/npm/dm/transantiago-client.svg?style=flat-square)](https://www.npmjs.com/package/transantiago-client)
 
+## Otros enlaces
+
+- [Listado de APIs públicas en Chile.](https://github.com/juanbrujo/listado-apis-publicas-en-chile)
+
 ## Licencia
 
 Todo el contenido esta regulado por la licencia de dominio público [CC0-1.0](https://spdx.org/licenses/CC0-1.0.html).
