@@ -106,6 +106,12 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [transantiago-client](https://www.npmjs.com/package/transantiago-client) ([dinoshunter](https://github.com/dinoshunter)) 
 · [![npm version](https://img.shields.io/npm/v/transantiago-client.svg?style=flat-square)](https://www.npmjs.com/package/transantiago-client) 
 · [![npm downloads](https://img.shields.io/npm/dm/transantiago-client.svg?style=flat-square)](https://www.npmjs.com/package/transantiago-client)
+- [transbank](https://www.npmjs.com/package/transbank) ([FabianBravoA](https://github.com/FabianBravoA)) 
+· [![npm version](https://img.shields.io/npm/v/transbank.svg?style=flat-square)](https://www.npmjs.com/package/transbank) 
+· [![npm downloads](https://img.shields.io/npm/dm/transbank.svg?style=flat-square)](https://www.npmjs.com/package/transbank)
+- [tbk-oneclick](https://www.npmjs.com/package/tbk-oneclick) ([lgaticaq](https://github.com/lgaticaq)) 
+· [![npm version](https://img.shields.io/npm/v/tbk-oneclick.svg?style=flat-square)](https://www.npmjs.com/package/tbk-oneclick) 
+· [![npm downloads](https://img.shields.io/npm/dm/tbk-oneclick.svg?style=flat-square)](https://www.npmjs.com/package/tbk-oneclick)
 
 ## Otros enlaces
 
