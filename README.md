@@ -112,6 +112,9 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [tbk-oneclick](https://www.npmjs.com/package/tbk-oneclick) ([lgaticaq](https://github.com/lgaticaq)) 
 · [![npm version](https://img.shields.io/npm/v/tbk-oneclick.svg?style=flat-square)](https://www.npmjs.com/package/tbk-oneclick) 
 · [![npm downloads](https://img.shields.io/npm/dm/tbk-oneclick.svg?style=flat-square)](https://www.npmjs.com/package/tbk-oneclick)
+- [hubot-paraderos-transantiago](https://www.npmjs.com/package/hubot-paraderos-transantiago) ([fabianwgl](https://github.com/fabianwgl)) 
+· [![npm version](https://img.shields.io/npm/v/hubot-paraderos-transantiago.svg?style=flat-square)](https://www.npmjs.com/package/hubot-paraderos-transantiago) 
+· [![npm downloads](https://img.shields.io/npm/dm/hubot-paraderos-transantiago.svg?style=flat-square)](https://www.npmjs.com/package/hubot-paraderos-transantiago)
 
 ## Otros enlaces
 
