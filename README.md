@@ -115,6 +115,9 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [hubot-paraderos-transantiago](https://www.npmjs.com/package/hubot-paraderos-transantiago) ([fabianwgl](https://github.com/fabianwgl)) 
 · [![npm version](https://img.shields.io/npm/v/hubot-paraderos-transantiago.svg?style=flat-square)](https://www.npmjs.com/package/hubot-paraderos-transantiago) 
 · [![npm downloads](https://img.shields.io/npm/dm/hubot-paraderos-transantiago.svg?style=flat-square)](https://www.npmjs.com/package/hubot-paraderos-transantiago)
+- [indicadoresdeldia](https://www.npmjs.com/package/indicadoresdeldia) ([lgaticaq](https://github.com/lgaticaq)) 
+· [![npm version](https://img.shields.io/npm/v/indicadoresdeldia.svg?style=flat-square)](https://www.npmjs.com/package/indicadoresdeldia) 
+· [![npm downloads](https://img.shields.io/npm/dm/indicadoresdeldia.svg?style=flat-square)](https://www.npmjs.com/package/indicadoresdeldia)
 
 ## Otros enlaces
 
