@@ -118,6 +118,9 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [indicadoresdeldia](https://www.npmjs.com/package/indicadoresdeldia) ([lgaticaq](https://github.com/lgaticaq)) 
 · [![npm version](https://img.shields.io/npm/v/indicadoresdeldia.svg?style=flat-square)](https://www.npmjs.com/package/indicadoresdeldia) 
 · [![npm downloads](https://img.shields.io/npm/dm/indicadoresdeldia.svg?style=flat-square)](https://www.npmjs.com/package/indicadoresdeldia)
+- [fi-rut](https://www.npmjs.com/package/fi-rut) ([FinalDevStudio](https://github.com/FinalDevStudio)) 
+· [![npm version](https://img.shields.io/npm/v/fi-rut.svg?style=flat-square)](https://www.npmjs.com/package/fi-rut) 
+· [![npm downloads](https://img.shields.io/npm/dm/fi-rut.svg?style=flat-square)](https://www.npmjs.com/package/fi-rut)
 
 ## Otros enlaces
 
