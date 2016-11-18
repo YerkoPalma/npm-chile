@@ -121,6 +121,9 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [fi-rut](https://www.npmjs.com/package/fi-rut) ([FinalDevStudio](https://github.com/FinalDevStudio)) 
 · [![npm version](https://img.shields.io/npm/v/fi-rut.svg?style=flat-square)](https://www.npmjs.com/package/fi-rut) 
 · [![npm downloads](https://img.shields.io/npm/dm/fi-rut.svg?style=flat-square)](https://www.npmjs.com/package/fi-rut)
+- [senadores-base](https://www.npmjs.com/package/senadores-base) ([yerkopalma](https://github.com/YerkoPalma)) 
+· [![npm version](https://img.shields.io/npm/v/senadores-base.svg?style=flat-square)](https://www.npmjs.com/package/senadores-base) 
+· [![npm downloads](https://img.shields.io/npm/dm/senadores-base.svg?style=flat-square)](https://www.npmjs.com/package/senadores-base)
 
 ## Otros enlaces
 
