@@ -127,6 +127,9 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [senadores-asistencia](https://www.npmjs.com/package/senadores-asistencia) ([yerkopalma](https://github.com/YerkoPalma)) 
 · [![npm version](https://img.shields.io/npm/v/senadores-asistencia.svg?style=flat-square)](https://www.npmjs.com/package/senadores-asistencia) 
 · [![npm downloads](https://img.shields.io/npm/dm/senadores-asistencia.svg?style=flat-square)](https://www.npmjs.com/package/senadores-asistencia)
+- [senadores-detalle](https://www.npmjs.com/package/senadores-detalle) ([yerkopalma](https://github.com/YerkoPalma)) 
+· [![npm version](https://img.shields.io/npm/v/senadores-detalle.svg?style=flat-square)](https://www.npmjs.com/package/senadores-detalle) 
+· [![npm downloads](https://img.shields.io/npm/dm/senadores-detalle.svg?style=flat-square)](https://www.npmjs.com/package/senadores-detalle)
 
 ## Otros enlaces
 
