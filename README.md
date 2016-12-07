@@ -130,6 +130,9 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [senadores-detalle](https://www.npmjs.com/package/senadores-detalle) ([yerkopalma](https://github.com/YerkoPalma)) 
 · [![npm version](https://img.shields.io/npm/v/senadores-detalle.svg?style=flat-square)](https://www.npmjs.com/package/senadores-detalle) 
 · [![npm downloads](https://img.shields.io/npm/dm/senadores-detalle.svg?style=flat-square)](https://www.npmjs.com/package/senadores-detalle)
+- [senadores-viajes](https://www.npmjs.com/package/senadores-viajes) ([yerkopalma](https://github.com/YerkoPalma)) 
+· [![npm version](https://img.shields.io/npm/v/senadores-viajes.svg?style=flat-square)](https://www.npmjs.com/package/senadores-viajes) 
+· [![npm downloads](https://img.shields.io/npm/dm/senadores-viajes.svg?style=flat-square)](https://www.npmjs.com/package/senadores-viajes)
 
 ## Otros enlaces
 
