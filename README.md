@@ -136,6 +136,12 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [senadores-elecciones](https://www.npmjs.com/package/senadores-elecciones) ([yerkopalma](https://github.com/YerkoPalma)) 
 · [![npm version](https://img.shields.io/npm/v/senadores-elecciones.svg?style=flat-square)](https://www.npmjs.com/package/senadores-elecciones) 
 · [![npm downloads](https://img.shields.io/npm/dm/senadores-elecciones.svg?style=flat-square)](https://www.npmjs.com/package/senadores-elecciones)
+- [patentes-chile](https://www.npmjs.com/package/patentes-chile) ([flakolefluk](https://github.com/flakolefluk)) 
+· [![npm version](https://img.shields.io/npm/v/patentes-chile.svg?style=flat-square)](https://www.npmjs.com/package/patentes-chile) 
+· [![npm downloads](https://img.shields.io/npm/dm/patentes-chile.svg?style=flat-square)](https://www.npmjs.com/package/patentes-chile)
+- [sismos-cl](https://www.npmjs.com/package/sismos-cl) ([iformas](https://github.com/iformas))
+· [![npm version](https://img.shields.io/npm/v/sismos-cl.svg?style=flat-square)](https://www.npmjs.com/package/sismos-cl) 
+· [![npm downloads](https://img.shields.io/npm/dm/sismos-cl.svg?style=flat-square)](https://www.npmjs.com/package/sismos-cl)
 
 ## Otros enlaces
 
