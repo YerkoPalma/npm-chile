@@ -142,6 +142,9 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [sismos-cl](https://www.npmjs.com/package/sismos-cl) ([iformas](https://github.com/iformas))
 · [![npm version](https://img.shields.io/npm/v/sismos-cl.svg?style=flat-square)](https://www.npmjs.com/package/sismos-cl) 
 · [![npm downloads](https://img.shields.io/npm/dm/sismos-cl.svg?style=flat-square)](https://www.npmjs.com/package/sismos-cl)
+- [cne](https://www.npmjs.com/package/cne) ([lgaticaq](https://github.com/lgaticaq))
+· [![npm version](https://img.shields.io/npm/v/cne.svg?style=flat-square)](https://www.npmjs.com/package/cne) 
+· [![npm downloads](https://img.shields.io/npm/dm/cne.svg?style=flat-square)](https://www.npmjs.com/package/cne)
 
 ## Otros enlaces
 
