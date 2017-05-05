@@ -145,6 +145,9 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [cne](https://www.npmjs.com/package/cne) ([lgaticaq](https://github.com/lgaticaq))
 · [![npm version](https://img.shields.io/npm/v/cne.svg?style=flat-square)](https://www.npmjs.com/package/cne) 
 · [![npm downloads](https://img.shields.io/npm/dm/cne.svg?style=flat-square)](https://www.npmjs.com/package/cne)
+- [senadores](https://www.npmjs.com/package/senadores) ([yerkopalma](https://github.com/YerkoPalma)) 
+· [![npm version](https://img.shields.io/npm/v/senadores.svg?style=flat-square)](https://www.npmjs.com/package/senadores) 
+· [![npm downloads](https://img.shields.io/npm/dm/senadores.svg?style=flat-square)](https://www.npmjs.com/package/senadores)
 
 ## Otros enlaces
 
