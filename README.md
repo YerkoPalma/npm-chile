@@ -148,6 +148,13 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [senadores](https://www.npmjs.com/package/senadores) ([yerkopalma](https://github.com/YerkoPalma)) 
 · [![npm version](https://img.shields.io/npm/v/senadores.svg?style=flat-square)](https://www.npmjs.com/package/senadores) 
 · [![npm downloads](https://img.shields.io/npm/dm/senadores.svg?style=flat-square)](https://www.npmjs.com/package/senadores)
+- [betazeta](https://www.npmjs.com/package/betazeta) ([jlobos](https://github.com/jlobos))
+· [![npm version](https://img.shields.io/npm/v/betazeta.svg?style=flat-square)](https://www.npmjs.com/package/betazeta) 
+· [![npm downloads](https://img.shields.io/npm/dm/betazeta.svg?style=flat-square)](https://www.npmjs.com/package/betazeta)
+- [nic-chile](https://www.npmjs.com/package/nic-chile) ([jlobos](https://github.com/jlobos))
+· [![npm version](https://img.shields.io/npm/v/nic-chile.svg?style=flat-square)](https://www.npmjs.com/package/nic-chile) 
+· [![npm downloads](https://img.shields.io/npm/dm/nic-chile.svg?style=flat-square)](https://www.npmjs.com/package/nic-chile)
+
 
 ## Otros enlaces
 
