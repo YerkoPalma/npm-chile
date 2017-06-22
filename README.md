@@ -154,6 +154,9 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [nic-chile](https://www.npmjs.com/package/nic-chile) ([jlobos](https://github.com/jlobos))
 · [![npm version](https://img.shields.io/npm/v/nic-chile.svg?style=flat-square)](https://www.npmjs.com/package/nic-chile) 
 · [![npm downloads](https://img.shields.io/npm/dm/nic-chile.svg?style=flat-square)](https://www.npmjs.com/package/nic-chile)
+- [numbertoclpformater](https://www.npmjs.com/package/numbertoclpformater) ([juanbrujo](https://github.com/juanbrujo))
+· [![npm version](https://img.shields.io/npm/v/numbertoclpformater.svg?style=flat-square)](https://www.npmjs.com/package/numbertoclpformater) 
+· [![npm downloads](https://img.shields.io/npm/dm/numbertoclpformater.svg?style=flat-square)](https://www.npmjs.com/package/numbertoclpformater)
 
 
 ## Otros enlaces
