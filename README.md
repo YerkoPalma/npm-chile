@@ -157,7 +157,9 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [numbertoclpformater](https://www.npmjs.com/package/numbertoclpformater) ([juanbrujo](https://github.com/juanbrujo))
 · [![npm version](https://img.shields.io/npm/v/numbertoclpformater.svg?style=flat-square)](https://www.npmjs.com/package/numbertoclpformater) 
 · [![npm downloads](https://img.shields.io/npm/dm/numbertoclpformater.svg?style=flat-square)](https://www.npmjs.com/package/numbertoclpformater)
-
+- [chilepay-sdk](https://www.npmjs.com/package/chilepay-sdk) ([chilepay](https://github.com/chilepay))
+· [![npm version](https://img.shields.io/npm/v/chilepay-sdk.svg?style=flat-square)](https://www.npmjs.com/package/chilepay-sdk) 
+· [![npm downloads](https://img.shields.io/npm/dm/chilepay-sdk.svg?style=flat-square)](https://www.npmjs.com/package/chilepay-sdk)
 
 ## Otros enlaces
 
