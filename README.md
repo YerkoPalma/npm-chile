@@ -160,6 +160,12 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [chilepay-sdk](https://www.npmjs.com/package/chilepay-sdk) ([chilepay](https://github.com/chilepay))
 · [![npm version](https://img.shields.io/npm/v/chilepay-sdk.svg?style=flat-square)](https://www.npmjs.com/package/chilepay-sdk) 
 · [![npm downloads](https://img.shields.io/npm/dm/chilepay-sdk.svg?style=flat-square)](https://www.npmjs.com/package/chilepay-sdk)
+- [vue-rut](https://www.npmjs.com/package/vue-rut) ([isaiascardenas](https://github.com/isaiascardenas))
+· [![npm version](https://img.shields.io/npm/v/vue-rut.svg?style=flat-square)](https://www.npmjs.com/package/vue-rut) 
+· [![npm downloads](https://img.shields.io/npm/dm/vue-rut.svg?style=flat-square)](https://www.npmjs.com/package/vue-rut)
+- [vue-dni](https://www.npmjs.com/package/vue-dni) ([platanus](https://github.com/platanus))
+· [![npm version](https://img.shields.io/npm/v/vue-dni.svg?style=flat-square)](https://www.npmjs.com/package/vue-dni) 
+· [![npm downloads](https://img.shields.io/npm/dm/vue-dni.svg?style=flat-square)](https://www.npmjs.com/package/vue-dni)
 
 ## Otros enlaces
 
