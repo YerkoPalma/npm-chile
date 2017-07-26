@@ -166,6 +166,9 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [vue-dni](https://www.npmjs.com/package/vue-dni) ([platanus](https://github.com/platanus))
 · [![npm version](https://img.shields.io/npm/v/vue-dni.svg?style=flat-square)](https://www.npmjs.com/package/vue-dni) 
 · [![npm downloads](https://img.shields.io/npm/dm/vue-dni.svg?style=flat-square)](https://www.npmjs.com/package/vue-dni)
+- [bci](https://www.npmjs.com/package/bci) ([ProgramadoresChile](https://github.com/ProgramadoresChile))
+· [![npm version](https://img.shields.io/npm/v/bci.svg?style=flat-square)](https://www.npmjs.com/package/bci) 
+· [![npm downloads](https://img.shields.io/npm/dm/bci.svg?style=flat-square)](https://www.npmjs.com/package/bci)
 
 ## Otros enlaces
 
