@@ -169,6 +169,9 @@ La siguiente lista pretende indexar y agrupar los paquetes presentes en [npm](ht
 - [bci](https://www.npmjs.com/package/bci) ([ProgramadoresChile](https://github.com/ProgramadoresChile))
 · [![npm version](https://img.shields.io/npm/v/bci.svg?style=flat-square)](https://www.npmjs.com/package/bci) 
 · [![npm downloads](https://img.shields.io/npm/dm/bci.svg?style=flat-square)](https://www.npmjs.com/package/bci)
+- [rut-regex](https://www.npmjs.com/package/rut-regex) ([jlobos](https://github.com/jlobos))
+· [![npm version](https://img.shields.io/npm/v/rut-regex.svg?style=flat-square)](https://www.npmjs.com/package/rut-regex) 
+· [![npm downloads](https://img.shields.io/npm/dm/rut-regex.svg?style=flat-square)](https://www.npmjs.com/package/rut-regex)
 
 ## Otros enlaces
 
